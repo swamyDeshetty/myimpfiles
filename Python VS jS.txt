@@ -1,0 +1,10 @@
+Differences between the pyoops and js oops
+
+python=> we use the self keyword to acccess the variable.
+js=> we use the this keyword to access the variable in js
+python=> we use the constructor __init__ function as the reserved keyword
+js=> we use the constructor keyword as it is in js
+python=>we use the self keyword in the function params
+js=> Dont need to use the self in the params of the js..
+python=> we use the def keyword to write the function...
+js=>No need to the  default function name just go with the name whatever you want..

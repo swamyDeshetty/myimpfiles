@@ -1,0 +1,3 @@
+for installing the project
+=>composer create-project --prefer-dist laravel/laravel laravel-project
+

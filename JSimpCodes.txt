@@ -1,0 +1,12 @@
+JSIMPCODES=>
+
+using the forloop inside the es6 function..
+
+const emp=(numbers)=>{
+	let result=[]
+	for(number of numbers){
+		result.push(number*2)
+
+	}
+	return result
+console.log(emp([1,2,3,4,5]))

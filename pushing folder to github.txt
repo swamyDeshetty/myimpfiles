@@ -1,0 +1,7 @@
+git1)Navigate to the local repository on your computer using Git Bash
+2)git init
+3)git add .
+4)git commit -m "initial commit"
+5)git remote add origin <'url of github'>
+6)git push -u origin master 
+it will push the folder to the github...

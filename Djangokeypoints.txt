@@ -1,0 +1,31 @@
+DJANGO
+Models=> first open models.py file in the project and write the class and insert the columns
+      =>after creation of cols migrate that to the database
+      =>one file is created and the filename is init.py
+      =>after that use this to migrate the data to the database
+      =>py manage.py migrate
+
+Inserting Data ==>
+               =>open the directory and use this cmd ->py manage.py shell
+               =>from members.models import Member
+               =>Member.objects.all()
+               =>for inserting the data we use the member=Member(firstname="swamy" lastname="patel")
+               =>member.save()
+               =>for fetching the data from the database we use the Member.objects.all().values()  
+For loop in the Django
+       => {%for x in mymembers %}
+           <li>{x.firstname}</li>
+           <li>{x.lastname}</li>
+          {% endfor %}
+Variables =>
+         {{members}}
+         {{xvariables}}
+If loop in the Django
+      =>{% if x==django and  y!=python %}
+      => <p>This is key the point about the if loop in the Django </p>
+      =>{% endif %}
+
+Query set is used to fetch the data from the database
+              =>fetchdata = Member.objects.all().values() //it fetches all the data from the database..
+              =>fetchdata = Member.objects.filter(firstname="swamy").values() //it filters the data and only fetch the firstname
+              =>fetchdata = Member.objects.order_by('firstname').vlaues() //it fetch the data in the ascending order...

@@ -1,0 +1,13 @@
+javascript advantages=>
+
+1)It is executed on server side and clientside 
+2)it is dynamic typed language
+3)it is interpreted language
+4)webpages now have more functionalityes because of javascript
+5)It is quick to use
+6)It is simple to learn
+
+JsDOM=>
+when the browser tries to render the html document it creates the objects using the Html document called DOM
+
+Using with the HtmlDOM js can access and change the html document..

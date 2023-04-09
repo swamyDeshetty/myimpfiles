@@ -1,0 +1,33 @@
+This is my portfolio link..
+http://127.0.0.1:8000/portfolio/ 
+
+Github link..
+https://github.com/swamyDeshetty
+
+Linked Url
+www.linkedin.com/in/
+swamy-deshetty-2297a1240
+
+
+
+
+My passion to coding started in my early career which gave me a confidence to took a degreee in computer science.
+
+	I learned front end technologies like HTML,CSS,,JAVASCRIPT,JQUERY to get started in the IT indusrtry. And the best thing is i also learned Python from industry experts 
+to enhance my career in the feild of software developnment.
+
+	My skills were given me a chance to proove my self in IT with a 6 months of internship from one of the best companies like Atlantis, where i learned PHP and Laravel
+as well. The team at Atlantis learnt me to how to solve an issues and shown me a fascinating life of software development.
+
+	And the intesting part is i worked on Redfm website project and also developed one module.
+
+
+
+#Calculator project link.....
+tip-calci.swamydeshetty.repl.co/
+
+#Bank Account project link
+bankaccbalance.swamydeshetty.repl.co/
+
+#Portpolio
+portfolio--swamydeshetty.repl.co/

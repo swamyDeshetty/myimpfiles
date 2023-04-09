@@ -1,0 +1,13 @@
+pushing changes to the git hub
+
+=>open the directory of our project
+=>And use the gitbash 
+=>open the gitbash 
+=>git status
+=>after that use cmd git add .
+=>after that use cmd git commit -m "file has been added"
+=>finally git push 'link of our git repo..'
+=>no need to use git push 'link'
+=> by using this cmd we didnt use link evry time git remote add origin 'link'
+""git push origin master "" then it will pushes the changes
+=> then after this we can use this every time "git push origin master" no need to use  git push 'link'..

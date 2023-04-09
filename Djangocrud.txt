@@ -1,0 +1,14 @@
+Django crud operations =>
+1)first create the model in the  models.py file
+2)then register the model in the admin.py file 
+Now make migrations to the database and create a superuser to gain admin access using the following commands:
+3)Then make migrations using this cmd py manage.py makemigrations 
+4)Then migrate the model to the db ->py manage.py migrate
+5)for creating the superuser => py manage.py createsuperuser
+6)create operations
+first goto admin page =>add the employees manually
+employees_list function is used to fetch the data from the database in the table format..
+using the list.html fetchin the data in the table format and using the employees _list im fetching the data from the database
+7)data is succesfully fetched 
+8)and need to add the newemployee to the table
+=>Inside the employee app, we need to create a forms.py file. Then we will fetch the Employee model fields and create a form with those fields. We will do that with the help of Django ModelForm.
